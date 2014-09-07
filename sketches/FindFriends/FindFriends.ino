@@ -2,6 +2,7 @@
 * Find attached Fubarino boards
 *
 */
+
 #define MAX_INPUT 200
 char gBuf[MAX_INPUT];
 
@@ -11,8 +12,8 @@ int gCount = 0;
 void setup()
 {
 	Serial.begin(9600);
+	Serial0.begin(9600);
 	Serial1.begin(9600);
-	Serial2.begin(9600);
 
 	Serial.println("Start Up: Finding Friends");
 }
