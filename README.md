@@ -72,5 +72,6 @@ Also, who do we want to add new devces to the network. We want to be able to dyn
 
 References:
 ====
-* Token Ring (http://en.wikipedia.org/wiki/Token_ring)
-* Framing in Serial Communication (http://eli.thegreenplace.net/2009/08/12/framing-in-serial-communications/)
+* Token Ring: (http://en.wikipedia.org/wiki/Token_ring)
+* Framing in Serial Communication: (http://eli.thegreenplace.net/2009/08/12/framing-in-serial-communications/)
+* Mod Bus: http://en.wikipedia.org/wiki/Modbus
